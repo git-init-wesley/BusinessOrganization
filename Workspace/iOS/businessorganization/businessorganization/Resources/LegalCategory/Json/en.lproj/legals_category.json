@@ -1,0 +1,1246 @@
+[
+    {
+        "level": "One",
+        "values": [
+            {
+                "code": "0",
+                "name": "Undertaking for collective investment in transferable securities without legal personality"
+            },
+            {
+                "code": "1",
+                "name": "Individual entrepreneur"
+            },
+            {
+                "code": "2",
+                "name": "Private law group without legal personality"
+            },
+            {
+                "code": "3",
+                "name": "Legal person under foreign law"
+            },
+            {
+                "code": "4",
+                "name": "Legal person of public law subject to commercial law"
+            },
+            {
+                "code": "5",
+                "name": "Trading company"
+            },
+            {
+                "code": "6",
+                "name": "Other legal person registered with the RCS"
+            },
+            {
+                "code": "7",
+                "name": "Legal person and body subject to administrative law"
+            },
+            {
+                "code": "8",
+                "name": "Specialized private organization"
+            },
+            {
+                "code": "9",
+                "name": "Private law group"
+            }
+        ]
+    },
+    {
+        "level": "Two",
+        "values": [
+            {
+                "code": "00",
+                "name": "Undertaking for collective investment in transferable securities without legal personality"
+            },
+            {
+                "code": "10",
+                "name": "Individual entrepreneur"
+            },
+            {
+                "code": "21",
+                "name": "Joint ownership"
+            },
+            {
+                "code": "22",
+                "name": "Company created de facto"
+            },
+            {
+                "code": "23",
+                "name": "Joint venture company"
+            },
+            {
+                "code": "24",
+                "name": "Trust"
+            },
+            {
+                "code": "27",
+                "name": "Parish outside the concordance zone"
+            },
+            {
+                "code": "29",
+                "name": "Other private law group without legal personality"
+            },
+            {
+                "code": "31",
+                "name": "Legal person under foreign law, registered with the RCS (trade and companies register)"
+            },
+            {
+                "code": "32",
+                "name": "Legal person under foreign law, not registered with the RCS"
+            },
+            {
+                "code": "41",
+                "name": "Public establishment or management of an industrial or commercial nature"
+            },
+            {
+                "code": "51",
+                "name": "Special commercial cooperative company"
+            },
+            {
+                "code": "52",
+                "name": "General partnership"
+            },
+            {
+                "code": "53",
+                "name": "Limited partnership"
+            },
+            {
+                "code": "54",
+                "name": "Limited liability company (SARL)"
+            },
+            {
+                "code": "55",
+                "name": "Public limited company with a board of directors"
+            },
+            {
+                "code": "56",
+                "name": "Public limited company with a management board"
+            },
+            {
+                "code": "57",
+                "name": "Simplified joint stock company"
+            },
+            {
+                "code": "58",
+                "name": "European company"
+            },
+            {
+                "code": "61",
+                "name": "Savings and provident fund"
+            },
+            {
+                "code": "62",
+                "name": "Economic interest group"
+            },
+            {
+                "code": "63",
+                "name": "Agricultural cooperative society"
+            },
+            {
+                "code": "64",
+                "name": "Mutual insurance company"
+            },
+            {
+                "code": "65",
+                "name": "Civil society"
+            },
+            {
+                "code": "69",
+                "name": "Other legal person of private law registered in the trade and companies register"
+            },
+            {
+                "code": "71",
+                "name": "State administration"
+            },
+            {
+                "code": "72",
+                "name": "Territorial collectivity"
+            },
+            {
+                "code": "73",
+                "name": "Public administrative establishment"
+            },
+            {
+                "code": "74",
+                "name": "Other legal person governed by public administrative law"
+            },
+            {
+                "code": "81",
+                "name": "Organization managing a compulsory membership social protection scheme"
+            },
+            {
+                "code": "82",
+                "name": "Mutualist organization"
+            },
+            {
+                "code": "83",
+                "name": "Works council"
+            },
+            {
+                "code": "84",
+                "name": "Professional body"
+            },
+            {
+                "code": "85",
+                "name": "Non-compulsory retirement organization"
+            },
+            {
+                "code": "91",
+                "name": "Syndicate of owners"
+            },
+            {
+                "code": "92",
+                "name": "Association law 1901 or assimilated"
+            },
+            {
+                "code": "93",
+                "name": "Foundation"
+            },
+            {
+                "code": "99",
+                "name": "Other legal person of private law"
+            }
+        ]
+    },
+    {
+        "level": "Three",
+        "values": [
+            {
+                "code": "0000",
+                "name": "Undertaking for collective investment in transferable securities without legal personality"
+            },
+            {
+                "code": "1000",
+                "name": "Individual entrepreneur"
+            },
+            {
+                "code": "2110",
+                "name": "Joint ownership between natural persons"
+            },
+            {
+                "code": "2120",
+                "name": "Joint ownership with legal person"
+            },
+            {
+                "code": "2210",
+                "name": "Company created de facto between natural persons"
+            },
+            {
+                "code": "2220",
+                "name": "Company created de facto with legal person"
+            },
+            {
+                "code": "2310",
+                "name": "Joint venture between natural persons"
+            },
+            {
+                "code": "2320",
+                "name": "Joint venture with legal person"
+            },
+            {
+                "code": "2385",
+                "name": "Société en participation de professions libérale"
+            },
+            {
+                "code": "2400",
+                "name": "Trust"
+            },
+            {
+                "code": "2700",
+                "name": "Parish outside the concordance zone"
+            },
+            {
+                "code": "2900",
+                "name": "Other private law group without legal personality"
+            },
+            {
+                "code": "3110",
+                "name": "Representation or commercial agency of state or foreign public body registered with the RCS"
+            },
+            {
+                "code": "3120",
+                "name": "Foreign commercial company registered with the RCS"
+            },
+            {
+                "code": "3205",
+                "name": "International organization"
+            },
+            {
+                "code": "3210",
+                "name": "State, community or foreign public establishment"
+            },
+            {
+                "code": "3220",
+                "name": "Foreign company not registered with the RCS"
+            },
+            {
+                "code": "3290",
+                "name": "Other legal person under foreign law"
+            },
+            {
+                "code": "4110",
+                "name": "National public establishment of an industrial or commercial nature with a public accountant"
+            },
+            {
+                "code": "4120",
+                "name": "National public establishment of an industrial or commercial nature without a public accountant"
+            },
+            {
+                "code": "4130",
+                "name": "Public operator"
+            },
+            {
+                "code": "4140",
+                "name": "Local public industrial or commercial establishment"
+            },
+            {
+                "code": "4150",
+                "name": "Board of a local authority of an industrial or commercial nature"
+            },
+            {
+                "code": "4160",
+                "name": "Institution Banque de France"
+            },
+            {
+                "code": "5191",
+                "name": "Mutual guarantee company"
+            },
+            {
+                "code": "5192",
+                "name": "People's Bank Cooperative Society"
+            },
+            {
+                "code": "5193",
+                "name": "Mutual maritime credit union"
+            },
+            {
+                "code": "5194",
+                "name": "Federal mutual credit union"
+            },
+            {
+                "code": "5195",
+                "name": "Registered cooperative association (local Alsace Moselle law)"
+            },
+            {
+                "code": "5196",
+                "name": "Cooperative savings and provident fund"
+            },
+            {
+                "code": "5202",
+                "name": "General partnership"
+            },
+            {
+                "code": "5203",
+                "name": "Cooperative collective partnership"
+            },
+            {
+                "code": "5306",
+                "name": "Simple limited partnership"
+            },
+            {
+                "code": "5307",
+                "name": "Simple cooperative limited partnership"
+            },
+            {
+                "code": "5308",
+                "name": "Société en commandite par actions"
+            },
+            {
+                "code": "5309",
+                "name": "Société en commandite par actions cooperative"
+            },
+            {
+                "code": "5310",
+                "name": "Free partnership company (SLP)"
+            },
+            {
+                "code": "5370",
+                "name": "Société de Participations Financières de Profession Libérale Société en commandite par actions (SPFPL SCA)"
+            },
+            {
+                "code": "5385",
+                "name": "Company of liberal practice limited by shares"
+            },
+            {
+                "code": "5410",
+                "name": "national SARL"
+            },
+            {
+                "code": "5415",
+                "name": "SARL of mixed economy"
+            },
+            {
+                "code": "5422",
+                "name": "Real estate SARL for commerce and industry (SICOMI)"
+            },
+            {
+                "code": "5426",
+                "name": "SARL real estate management"
+            },
+            {
+                "code": "5430",
+                "name": "SARL for land development and rural equipment (SAFER)"
+            },
+            {
+                "code": "5431",
+                "name": "SARL mixed agricultural interest (SMIA)"
+            },
+            {
+                "code": "5432",
+                "name": "SARL of collective agricultural interest (SICA)"
+            },
+            {
+                "code": "5442",
+                "name": "Attribution SARL"
+            },
+            {
+                "code": "5443",
+                "name": "SARL cooperative de construction"
+            },
+            {
+                "code": "5451",
+                "name": "Consumer cooperative SARL"
+            },
+            {
+                "code": "5453",
+                "name": "artisanal cooperative SARL"
+            },
+            {
+                "code": "5454",
+                "name": "SARL cooperative of maritime interest"
+            },
+            {
+                "code": "5455",
+                "name": "SARL cooperative transport"
+            },
+            {
+                "code": "5458",
+                "name": "Workers cooperative production company (SCOP)"
+            },
+            {
+                "code": "5459",
+                "name": "SARL union of cooperative societies"
+            },
+            {
+                "code": "5460",
+                "name": "Other cooperative SARL"
+            },
+            {
+                "code": "5470",
+                "name": "Société de Participations Financières de Profession Libérale Limited Liability Company (SPFPL SARL)"
+            },
+            {
+                "code": "5485",
+                "name": "Private practice company with limited liability"
+            },
+            {
+                "code": "5499",
+                "name": "Limited liability company (without other indication)"
+            },
+            {
+                "code": "5505",
+                "name": "SA with worker participation with board of directors"
+            },
+            {
+                "code": "5510",
+                "name": "National SA with board of directors"
+            },
+            {
+                "code": "5515",
+                "name": "SA of mixed economy with board of directors"
+            },
+            {
+                "code": "5520",
+                "name": "Societal fund with a board of directors"
+            },
+            {
+                "code": "5522",
+                "name": "Real estate company for commerce and industry (SICOMI) with a board of directors"
+            },
+            {
+                "code": "5525",
+                "name": "Real estate investment company with a board of directors"
+            },
+            {
+                "code": "5530",
+                "name": "SA for land development and rural equipment (SAFER) with a board of directors"
+            },
+            {
+                "code": "5531",
+                "name": "Joint limited company of agricultural interest (SMIA) with board of directors"
+            },
+            {
+                "code": "5532",
+                "name": "SA of collective agricultural interest (SICA) with a board of directors"
+            },
+            {
+                "code": "5542",
+                "name": "SA of attribution to board of directors"
+            },
+            {
+                "code": "5543",
+                "name": "SA construction cooperative with board of directors"
+            },
+            {
+                "code": "5546",
+                "name": "HLM SA with board of directors"
+            },
+            {
+                "code": "5547",
+                "name": "SA HLM production cooperative with a board of directors"
+            },
+            {
+                "code": "5548",
+                "name": "Real estate credit SA with a board of directors"
+            },
+            {
+                "code": "5551",
+                "name": "SA consumer cooperative with a board of directors"
+            },
+            {
+                "code": "5552",
+                "name": "SA cooperative of merchants-retailers with a board of directors"
+            },
+            {
+                "code": "5553",
+                "name": "SA artisanal cooperative with a board of directors"
+            },
+            {
+                "code": "5554",
+                "name": "SA maritime cooperative (interest) with board of directors"
+            },
+            {
+                "code": "5555",
+                "name": "SA transport cooperative with board of directors"
+            },
+            {
+                "code": "5558",
+                "name": "SA workers' production cooperative (SCOP) with a board of directors"
+            },
+            {
+                "code": "5559",
+                "name": "SA union of cooperative societies with a board of directors"
+            },
+            {
+                "code": "5560",
+                "name": "Other cooperative SA with a board of directors"
+            },
+            {
+                "code": "5570",
+                "name": "Société de Participations Financières de Profession Libérale Public limited company with a board of directors (SPFPL SA with a board of directors)"
+            },
+            {
+                "code": "5585",
+                "name": "Private practice company with anonymous form with board of directors"
+            },
+            {
+                "code": "5599",
+                "name": "SA with a board of directors (s.a.i.)"
+            },
+            {
+                "code": "5605",
+                "name": "SA with worker participation with a management board"
+            },
+            {
+                "code": "5610",
+                "name": "SA national à directory"
+            },
+            {
+                "code": "5615",
+                "name": "SA of mixed economy with a management board"
+            },
+            {
+                "code": "5620",
+                "name": "Societal fund with a management board"
+            },
+            {
+                "code": "5622",
+                "name": "Real estate company for commerce and industry (SICOMI) with a management board"
+            },
+            {
+                "code": "5625",
+                "name": "Real estate investment company with a management board"
+            },
+            {
+                "code": "5630",
+                "name": "Anonymous Safer with management board"
+            },
+            {
+                "code": "5631",
+                "name": "Joint venture of agricultural interest (SMIA)"
+            },
+            {
+                "code": "5632",
+                "name": "SA of collective agricultural interest (SICA)"
+            },
+            {
+                "code": "5642",
+                "name": "SA of attribution to management board"
+            },
+            {
+                "code": "5643",
+                "name": "SA construction cooperative with a management board"
+            },
+            {
+                "code": "5646",
+                "name": "SA de HLM à directory"
+            },
+            {
+                "code": "5647",
+                "name": "Cooperative company for the production of public housing with a management board"
+            },
+            {
+                "code": "5648",
+                "name": "Directoire mortgage loan company"
+            },
+            {
+                "code": "5651",
+                "name": "SA consumer cooperative with a management board"
+            },
+            {
+                "code": "5652",
+                "name": "SA cooperative of traders-retailers with a directory"
+            },
+            {
+                "code": "5653",
+                "name": "SA artisanal cooperative with a directory"
+            },
+            {
+                "code": "5654",
+                "name": "SA cooperative of maritime interest with a management board"
+            },
+            {
+                "code": "5655",
+                "name": "SA transport cooperative with management board"
+            },
+            {
+                "code": "5658",
+                "name": "SA production worker cooperative (SCOP) with a management board"
+            },
+            {
+                "code": "5659",
+                "name": "SA union of cooperative societies with a management board"
+            },
+            {
+                "code": "5660",
+                "name": "Other cooperative SA with a management board"
+            },
+            {
+                "code": "5670",
+                "name": "Société de Participations Financières de Profession Libérale Société anonyme with a Management Board (SPFPL SA with a Management Board)"
+            },
+            {
+                "code": "5685",
+                "name": "Private practice company with anonymous form with a management board"
+            },
+            {
+                "code": "5699",
+                "name": "SA à directory (s.a.i.)"
+            },
+            {
+                "code": "5710",
+                "name": "SAS, simplified joint stock company"
+            },
+            {
+                "code": "5770",
+                "name": "Société de Participations Financières de Profession Libérale Simplified Joint Stock Company (SPFPL SAS)"
+            },
+            {
+                "code": "5785",
+                "name": "Company of liberal practice by simplified share"
+            },
+            {
+                "code": "5800",
+                "name": "European company"
+            },
+            {
+                "code": "6100",
+                "name": "Caisse d'Épargne et de Prévoyance"
+            },
+            {
+                "code": "6210",
+                "name": "European Economic Interest Grouping (EEIG)"
+            },
+            {
+                "code": "6220",
+                "name": "Economic Interest Group (GIE)"
+            },
+            {
+                "code": "6316",
+                "name": "Cooperative for the use of common agricultural equipment (CUMA)"
+            },
+            {
+                "code": "6317",
+                "name": "Agricultural cooperative society"
+            },
+            {
+                "code": "6318",
+                "name": "Union of agricultural cooperative societies"
+            },
+            {
+                "code": "6411",
+                "name": "Mutual insurance company"
+            },
+            {
+                "code": "6511",
+                "name": "Interprofessional Ambulatory Care Societies"
+            },
+            {
+                "code": "6521",
+                "name": "Real estate collective investment company (SCPI)"
+            },
+            {
+                "code": "6532",
+                "name": "Civil society of collective agricultural interest (SICA)"
+            },
+            {
+                "code": "6533",
+                "name": "Groupement agricole d'économie en commun (GAEC)"
+            },
+            {
+                "code": "6534",
+                "name": "Groupement foncier agricole"
+            },
+            {
+                "code": "6535",
+                "name": "Groupement agricole foncier"
+            },
+            {
+                "code": "6536",
+                "name": "Groupement forestier"
+            },
+            {
+                "code": "6537",
+                "name": "Pastoral group"
+            },
+            {
+                "code": "6538",
+                "name": "Groupement foncier et rural"
+            },
+            {
+                "code": "6539",
+                "name": "Société civile foncière"
+            },
+            {
+                "code": "6540",
+                "name": "Real estate company"
+            },
+            {
+                "code": "6541",
+                "name": "Civil society building construction-sale"
+            },
+            {
+                "code": "6542",
+                "name": "Civil society attribution"
+            },
+            {
+                "code": "6543",
+                "name": "Civil cooperative construction company"
+            },
+            {
+                "code": "6544",
+                "name": "Civil society for progressive home ownership"
+            },
+            {
+                "code": "6551",
+                "name": "Consumer cooperative civil society"
+            },
+            {
+                "code": "6554",
+                "name": "Cooperative civil society of maritime interest"
+            },
+            {
+                "code": "6558",
+                "name": "Cooperative civil society between doctors"
+            },
+            {
+                "code": "6560",
+                "name": "Other cooperative civil society"
+            },
+            {
+                "code": "6561",
+                "name": "SCP of lawyers"
+            },
+            {
+                "code": "6562",
+                "name": "SCP from lawyers to boards"
+            },
+            {
+                "code": "6563",
+                "name": "SCP of appeals officers"
+            },
+            {
+                "code": "6564",
+                "name": "SCP of bailiffs"
+            },
+            {
+                "code": "6565",
+                "name": "SCP of notaries"
+            },
+            {
+                "code": "6566",
+                "name": "SCP of auctioneers"
+            },
+            {
+                "code": "6567",
+                "name": "SCP of commercial court clerks"
+            },
+            {
+                "code": "6568",
+                "name": "SCP legal advice"
+            },
+            {
+                "code": "6569",
+                "name": "SCP of statutory auditors"
+            },
+            {
+                "code": "6571",
+                "name": "SCP of doctors"
+            },
+            {
+                "code": "6572",
+                "name": "SCP of dentists"
+            },
+            {
+                "code": "6573",
+                "name": "Nursing SCP"
+            },
+            {
+                "code": "6574",
+                "name": "SCP of physiotherapists"
+            },
+            {
+                "code": "6575",
+                "name": "SCP of medical analysis laboratory directors"
+            },
+            {
+                "code": "6576",
+                "name": "SCP of veterinarians"
+            },
+            {
+                "code": "6577",
+                "name": "SCP of expert surveyors"
+            },
+            {
+                "code": "6578",
+                "name": "SCP of architects"
+            },
+            {
+                "code": "6585",
+                "name": "Other professional civil society"
+            },
+            {
+                "code": "6589",
+                "name": "Civil society of means"
+            },
+            {
+                "code": "6595",
+                "name": "Local mutual credit union"
+            },
+            {
+                "code": "6596",
+                "name": "Mutual agricultural credit union"
+            },
+            {
+                "code": "6597",
+                "name": "Civil society of agricultural exploitation"
+            },
+            {
+                "code": "6598",
+                "name": "Limited liability farm"
+            },
+            {
+                "code": "6599",
+                "name": "Other civil society"
+            },
+            {
+                "code": "6901",
+                "name": "Other person of private law registered in the trade and companies register"
+            },
+            {
+                "code": "7111",
+                "name": "Constitutional authority"
+            },
+            {
+                "code": "7112",
+                "name": "Independent administrative or public authority"
+            },
+            {
+                "code": "7113",
+                "name": "Ministry"
+            },
+            {
+                "code": "7120",
+                "name": "Central department of a ministry"
+            },
+            {
+                "code": "7150",
+                "name": "Department of the Ministry of Defense"
+            },
+            {
+                "code": "7160",
+                "name": "Deconcentrated service with national competence of a ministry (excluding Defense)"
+            },
+            {
+                "code": "7171",
+                "name": "Deconcentrated State service with (inter) regional competence"
+            },
+            {
+                "code": "7172",
+                "name": "Deconcentrated State service with (inter) departmental competence"
+            },
+            {
+                "code": "7179",
+                "name": "(Other) Deconcentrated State service with territorial jurisdiction"
+            },
+            {
+                "code": "7190",
+                "name": "National school without legal personality"
+            },
+            {
+                "code": "7210",
+                "name": "Municipality and new municipality"
+            },
+            {
+                "code": "7220",
+                "name": "Department"
+            },
+            {
+                "code": "7225",
+                "name": "Collectivity and Overseas Territory"
+            },
+            {
+                "code": "7229",
+                "name": "(Other) Territorial collectivity"
+            },
+            {
+                "code": "7230",
+                "name": "Region"
+            },
+            {
+                "code": "7312",
+                "name": "Associated municipality and delegated municipality"
+            },
+            {
+                "code": "7313",
+                "name": "Section de commune"
+            },
+            {
+                "code": "7314",
+                "name": "Urban ensemble"
+            },
+            {
+                "code": "7321",
+                "name": "Authorized trade union association"
+            },
+            {
+                "code": "7322",
+                "name": "Urban land association"
+            },
+            {
+                "code": "7323",
+                "name": "Land consolidation association"
+            },
+            {
+                "code": "7331",
+                "name": "Local public educational institution"
+            },
+            {
+                "code": "7340",
+                "name": "Metropolitan pole"
+            },
+            {
+                "code": "7341",
+                "name": "Municipality sector"
+            },
+            {
+                "code": "7342",
+                "name": "Urban district"
+            },
+            {
+                "code": "7343",
+                "name": "Urban community"
+            },
+            {
+                "code": "7344",
+                "name": "Metropolis"
+            },
+            {
+                "code": "7345",
+                "name": "Multiple-vocation intercommunal syndicate (SIVOM)"
+            },
+            {
+                "code": "7346",
+                "name": "Community of municipalities"
+            },
+            {
+                "code": "7347",
+                "name": "Community of cities"
+            },
+            {
+                "code": "7348",
+                "name": "Agglomeration community"
+            },
+            {
+                "code": "7349",
+                "name": "Other non-specialized local public cooperation establishment or agreement"
+            },
+            {
+                "code": "7351",
+                "name": "Interdepartmental institution or agreement"
+            },
+            {
+                "code": "7352",
+                "name": "Interregional institution or agreement"
+            },
+            {
+                "code": "7353",
+                "name": "Syndicat intercommunal à single vocation (SIVU)"
+            },
+            {
+                "code": "7354",
+                "name": "Mixed union closed"
+            },
+            {
+                "code": "7355",
+                "name": "Open mixed union"
+            },
+            {
+                "code": "7356",
+                "name": "Trade union commission for the management of the joint property of the municipalities"
+            },
+            {
+                "code": "7357",
+                "name": "Territorial and rural balance center (PETR)"
+            },
+            {
+                "code": "7361",
+                "name": "Communal center for social action"
+            },
+            {
+                "code": "7362",
+                "name": "Caisse des écoles"
+            },
+            {
+                "code": "7363",
+                "name": "Municipal credit union"
+            },
+            {
+                "code": "7364",
+                "name": "Hospitalization establishment"
+            },
+            {
+                "code": "7365",
+                "name": "Syndicat inter hospitalier"
+            },
+            {
+                "code": "7366",
+                "name": "Local public social and medico-social establishment"
+            },
+            {
+                "code": "7367",
+                "name": "Intercommunal Center for Social Action (CIAS)"
+            },
+            {
+                "code": "7371",
+                "name": "Office public d 'habitation à loyer modéré (OPHLM)"
+            },
+            {
+                "code": "7372",
+                "name": "Departmental fire and rescue service (SDIS)"
+            },
+            {
+                "code": "7373",
+                "name": "Local public cultural establishment"
+            },
+            {
+                "code": "7378",
+                "name": "Board of a local authority of an administrative nature"
+            },
+            {
+                "code": "7379",
+                "name": "(Other) Local administrative public establishment"
+            },
+            {
+                "code": "7381",
+                "name": "Consular body"
+            },
+            {
+                "code": "7382",
+                "name": "National public establishment with central administration function"
+            },
+            {
+                "code": "7383",
+                "name": "National public establishment of a scientific, cultural and professional nature"
+            },
+            {
+                "code": "7384",
+                "name": "Other national public educational institution"
+            },
+            {
+                "code": "7385",
+                "name": "Other national administrative public establishment with limited territorial competence"
+            },
+            {
+                "code": "7389",
+                "name": "National public administrative establishment"
+            },
+            {
+                "code": "7410",
+                "name": "Public interest group (GIP)"
+            },
+            {
+                "code": "7430",
+                "name": "Public establishment of worship in Alsace-Lorraine"
+            },
+            {
+                "code": "7450",
+                "name": "Public administrative establishment, circle and home in the armed forces"
+            },
+            {
+                "code": "7470",
+                "name": "Publicly managed health cooperation group"
+            },
+            {
+                "code": "7490",
+                "name": "Other legal person under administrative law"
+            },
+            {
+                "code": "8110",
+                "name": "General Social Security Scheme"
+            },
+            {
+                "code": "8120",
+                "name": "Special Social Security Scheme"
+            },
+            {
+                "code": "8130",
+                "name": "Institution for supplementary retirement"
+            },
+            {
+                "code": "8140",
+                "name": "Agricultural social mutuality"
+            },
+            {
+                "code": "8150",
+                "name": "Health scheme for non-agricultural non-salaried workers"
+            },
+            {
+                "code": "8160",
+                "name": "Old age scheme not dependent on the general Social Security scheme"
+            },
+            {
+                "code": "8170",
+                "name": "Unemployment insurance scheme"
+            },
+            {
+                "code": "8190",
+                "name": "Other social security scheme"
+            },
+            {
+                "code": "8210",
+                "name": "Mutual"
+            },
+            {
+                "code": "8250",
+                "name": "Mutual agricultural insurance"
+            },
+            {
+                "code": "8290",
+                "name": "Other mutual organization"
+            },
+            {
+                "code": "8310",
+                "name": "Company social economic committee"
+            },
+            {
+                "code": "8311",
+                "name": "Establishment social economic committee"
+            },
+            {
+                "code": "8410",
+                "name": "Union of employees"
+            },
+            {
+                "code": "8420",
+                "name": "Employers' union"
+            },
+            {
+                "code": "8450",
+                "name": "Professional or similar order"
+            },
+            {
+                "code": "8470",
+                "name": "Industrial technical center or professional committee for economic development"
+            },
+            {
+                "code": "8490",
+                "name": "Other professional body"
+            },
+            {
+                "code": "8510",
+                "name": "Provident institution"
+            },
+            {
+                "code": "8520",
+                "name": "Supplementary retirement institution"
+            },
+            {
+                "code": "9110",
+                "name": "Syndicate of co-ownership"
+            },
+            {
+                "code": "9150",
+                "name": "Free trade union association"
+            },
+            {
+                "code": "9210",
+                "name": "Association not declared"
+            },
+            {
+                "code": "9220",
+                "name": "Association declared"
+            },
+            {
+                "code": "9221",
+                "name": "Association declared of insertion by the economic"
+            },
+            {
+                "code": "9222",
+                "name": "Intermediate association"
+            },
+            {
+                "code": "9223",
+                "name": "Employer group"
+            },
+            {
+                "code": "9224",
+                "name": "Association of lawyers with individual professional liability"
+            },
+            {
+                "code": "9230",
+                "name": "Association declared, recognized as being of public utility"
+            },
+            {
+                "code": "9240",
+                "name": "Congregation"
+            },
+            {
+                "code": "9260",
+                "name": "Association under local law (Bas-Rhin, Haut-Rhin and Moselle)"
+            },
+            {
+                "code": "9300",
+                "name": "Foundation"
+            },
+            {
+                "code": "9900",
+                "name": "Other legal person of private law"
+            },
+            {
+                "code": "9970",
+                "name": "Private management health cooperation group"
+            }
+        ]
+        
+    }
+]
