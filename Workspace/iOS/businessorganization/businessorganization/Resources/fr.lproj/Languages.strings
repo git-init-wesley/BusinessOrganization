@@ -1,0 +1,52 @@
+/*
+ Conçu avec ♡ par Levasseur Wesley.
+ © Copyright 2021. Tous droits réservés.
+ 
+ Création datant du 12/05/2021.
+ */
+
+"Error" = "Erreur";
+"Warning" = "Attention";
+"Loading" = "Chargement";
+"I_get_it" = "J'ai compris";
+"See" = "Voir";
+"Back" = "Retour";
+"Information" = "Information";
+"Particular" = "Particulier";
+"Business" = "Business";
+"General_informations" = "Informations générales";
+"Personal_informations" = "Informations personnelles";
+"Family_name" = "Nom de famille";
+"Given_name" = "Prénom";
+"Phone_number" = "Numéro de téléphone";
+
+"Picker_base_description" = "Appuyez sur une entrée pour la sélectionner.";
+"Picker_filter_field" = "Filtrer en saisissant du texte";
+
+"Connection" = "Connexion";
+"Connection_Description" = "Connectez-vous pour entrer dans le monde du Business.";
+"Registration" = "Inscription";
+"Registration_Description" = "Inscrivez-vous pour entrer dans le monde du Business.";
+"ForgotPassword" = "Mot de passe oublié";
+"ForgotPassword_Description" = "Tenté de récupérer votre mot de passe pour revenir dans le monde du Business.";
+
+"Sign_in" = "Se connecter";
+"Sign_up" = "S'inscrire";
+"Recovered" = "Récupéré";
+
+"Email_address" = "Adresse mail";
+"Email_address_malformated" = "L'adresse mail est mal formatée.";
+
+"Password" = "Mot de passe";
+"Password_confirmation" = "Confirmation du Mot de passe";
+"Password_format_info" = "Au moins un chiffre.\nAu moins un caractère minuscule.\nAu moins un caractère majuscule.\nAu moins un caractère spécial.\nAu moins 8 caractères, mais pas plus de 32.";
+"Password_malformated" = "\nLe mot de passe est mal formaté.\n\nAu moins un chiffre.\nAu moins un caractère minuscule.\nAu moins un caractère majuscule.\nAu moins un caractère spécial.\nAu moins 8 caractères, mais pas plus de 32.";
+"Forgot_password_?" = "Mot de passe oublié ?";
+
+"Type_of_account" = "Type de compte";
+"Type_of_account_info" = "La différence entre un compte Particulier et un compte Business est que le compte Particulier n'aura aucune vérification de l'identité que d'un compte Business, il ne se verra pas attribuer un badge de validation. De plus le compte Particulier ne peut se mettre en avant et donc a aussi de moindres avantages qu'un compte Business.";
+
+"Not_account_yet" = "Vous n'avez pas encore de compte ?";
+"Have_account_yet" = "Vous avez déjà un compte ?";
+
+"Agree_terms_of_use" = "Vous acceptez nos conditions d'utilisation.";

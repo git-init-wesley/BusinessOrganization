@@ -1,0 +1,52 @@
+/*
+ Conçu avec ♡ par Levasseur Wesley.
+ © Copyright 2021. Tous droits réservés.
+ 
+ Création datant du 12/05/2021.
+ */
+
+"Error" = "Error";
+"Warning" = "Warning";
+"Loading" = "Loading";
+"I_get_it" = "I get it";
+"See" = "See";
+"Back" = "Back";
+"Information" = "Information";
+"Particular" = "Particular";
+"Business" = "Business";
+"General_informations" = "General informations";
+"Personal_informations" = "Personal informations";
+"Family_name" = "Family name";
+"Given_name" = "Given name";
+"Phone_number" = "Phone number";
+
+"Picker_base_description" = "Tap an entry to select it.";
+"Picker_filter_field" = "Filter by entering text";
+
+"Connection" = "Connection";
+"Connection_Description" = "Connect to enter the world of Business.";
+"Registration" = "Registration";
+"Registration_Description" = "Register to enter the world of Business.";
+"ForgotPassword" = "Forgot Password";
+"ForgotPassword_Description" = "Tried to recover your password to return to the business world.";
+
+"Sign_in" = "Sign In";
+"Sign_up" = "Sign Up";
+"Recovered" = "Recovered";
+
+"Email_address" = "Email address";
+"Email_address_malformated" = "The email address is incorrectly formatted.";
+
+"Password" = "Password";
+"Password_confirmation" = "Password Confirmation";
+"Password_format_info" = "At least one number.\nAt least one lowercase character.\nAt least one uppercase character.\nAt least one special character.\nAt least 8 characters, but no more than 32.";
+"Password_malformated" = "\nPassword is incorrectly formatted.\n\nAt least one digit.\nAt least one lowercase character.\nAt least one uppercase character.\nAt least one special character.\nAt least 8 characters, but not more than 32.";
+"Forgot_password_?" = "Forgot your password ?";
+
+"Type_of_account" = "Type of account";
+"Type_of_account_info" = "The difference between a Personal account and a Business account is that the Personal account will not have any verification of the identity of a Business account, it will not be assigned a validation badge. In addition, the Individual account cannot be put forward and therefore also has fewer advantages than a Business account.";
+
+"Not_account_yet" = "Do not have an account yet ?";
+"Have_account_yet" = "Already have an account ?";
+
+"Agree_terms_of_use" = "You agree to our terms of use.";
