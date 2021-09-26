@@ -1,0 +1,478 @@
+{
+    "code": "SECTION A",
+    "largeName": "AGRICULTURE, SYLVICULTURE ET PÊCHE",
+    "smallName": "AGRICULTURE, SYLVICULTURE ET PÊCHE",
+    "division": [
+        {
+            "code": "01",
+            "largeName": "Culture et production animale, chasse et services annexes",
+            "smallName": "Cult. & prod. animale, chasse & sce ann."
+        },
+        {
+            "code": "01.1",
+            "largeName": "Cultures non permanentes",
+            "smallName": "Cultures non permanentes"
+        },
+        {
+            "code": "01.11",
+            "largeName": "Culture de céréales (sf riz) légumineuses, graines oléagineuses",
+            "smallName": "Cult céréale, légumineuse, graine oléag."
+        },
+        {
+            "code": "01.11Z",
+            "largeName": "Culture de céréales (sf riz) légumineuses, graines oléagineuses",
+            "smallName": "Cult céréale, légumineuse, graine oléag."
+        },
+        {
+            "code": "01.12",
+            "largeName": "Culture du riz",
+            "smallName": "Culture du riz"
+        },
+        {
+            "code": "01.12Z",
+            "largeName": "Culture du riz",
+            "smallName": "Culture du riz"
+        },
+        {
+            "code": "01.13",
+            "largeName": "Culture de légumes, de melons, de racines et de tubercules",
+            "smallName": "Cult. légume, melon, racine & tubercule"
+        },
+        {
+            "code": "01.13Z",
+            "largeName": "Culture de légumes, de melons, de racines et de tubercules",
+            "smallName": "Cult. légume, melon, racine & tubercule"
+        },
+        {
+            "code": "01.14",
+            "largeName": "Culture de la canne à sucre",
+            "smallName": "Culture de la canne à sucre"
+        },
+        {
+            "code": "01.14Z",
+            "largeName": "Culture de la canne à sucre",
+            "smallName": "Culture de la canne à sucre"
+        },
+        {
+            "code": "01.15",
+            "largeName": "Culture du tabac",
+            "smallName": "Culture du tabac"
+        },
+        {
+            "code": "01.15Z",
+            "largeName": "Culture du tabac",
+            "smallName": "Culture du tabac"
+        },
+        {
+            "code": "01.16",
+            "largeName": "Culture de plantes à fibres",
+            "smallName": "Culture de plantes à fibres"
+        },
+        {
+            "code": "01.16Z",
+            "largeName": "Culture de plantes à fibres",
+            "smallName": "Culture de plantes à fibres"
+        },
+        {
+            "code": "01.19",
+            "largeName": "Autres cultures non permanentes",
+            "smallName": "Autres cultures non permanentes"
+        },
+        {
+            "code": "01.19Z",
+            "largeName": "Autres cultures non permanentes",
+            "smallName": "Autres cultures non permanentes"
+        },
+        {
+            "code": "01.2",
+            "largeName": "Cultures permanentes",
+            "smallName": "Cultures permanentes"
+        },
+        {
+            "code": "01.21",
+            "largeName": "Culture de la vigne",
+            "smallName": "Culture de la vigne"
+        },
+        {
+            "code": "01.21Z",
+            "largeName": "Culture de la vigne",
+            "smallName": "Culture de la vigne"
+        },
+        {
+            "code": "01.22",
+            "largeName": "Culture de fruits tropicaux et subtropicaux",
+            "smallName": "Culture fruits tropicaux et subtropicaux"
+        },
+        {
+            "code": "01.22Z",
+            "largeName": "Culture de fruits tropicaux et subtropicaux",
+            "smallName": "Culture fruits tropicaux et subtropicaux"
+        },
+        {
+            "code": "01.23",
+            "largeName": "Culture d'agrumes",
+            "smallName": "Culture d'agrumes"
+        },
+        {
+            "code": "01.23Z",
+            "largeName": "Culture d'agrumes",
+            "smallName": "Culture d'agrumes"
+        },
+        {
+            "code": "01.24",
+            "largeName": "Culture de fruits à pépins et à noyau",
+            "smallName": "Culture de fruits à pépins et à noyau"
+        },
+        {
+            "code": "01.24Z",
+            "largeName": "Culture de fruits à pépins et à noyau",
+            "smallName": "Culture de fruits à pépins et à noyau"
+        },
+        {
+            "code": "01.25",
+            "largeName": "Culture d'aut. fruits d'arbres ou d'arbustes et de fruits a coque",
+            "smallName": "Cult. d'aut. fruits & de fruits à coque"
+        },
+        {
+            "code": "01.25Z",
+            "largeName": "Culture d'aut. fruits d'arbres ou d'arbustes et de fruits a coque",
+            "smallName": "Cult. d'aut. fruits & de fruits à coque"
+        },
+        {
+            "code": "01.26",
+            "largeName": "Culture de fruits oléagineux",
+            "smallName": "Culture de fruits oléagineux"
+        },
+        {
+            "code": "01.26Z",
+            "largeName": "Culture de fruits oléagineux",
+            "smallName": "Culture de fruits oléagineux"
+        },
+        {
+            "code": "01.27",
+            "largeName": "Culture de plantes à boissons",
+            "smallName": "Culture de plantes à boissons"
+        },
+        {
+            "code": "01.27Z",
+            "largeName": "Culture de plantes à boissons",
+            "smallName": "Culture de plantes à boissons"
+        },
+        {
+            "code": "01.28",
+            "largeName": "Culture plantes à épices aromatiques médicinales pharmaceutiques",
+            "smallName": "Cult. plante aromatiq. médicin. pharma."
+        },
+        {
+            "code": "01.28Z",
+            "largeName": "Culture plantes à épices aromatiques médicinales pharmaceutiques",
+            "smallName": "Cult. plante aromatiq. médicin. pharma."
+        },
+        {
+            "code": "01.29",
+            "largeName": "Autres cultures permanentes",
+            "smallName": "Autres cultures permanentes"
+        },
+        {
+            "code": "01.29Z",
+            "largeName": "Autres cultures permanentes",
+            "smallName": "Autres cultures permanentes"
+        },
+        {
+            "code": "01.3",
+            "largeName": "Reproduction de plantes",
+            "smallName": "Reproduction de plantes"
+        },
+        {
+            "code": "01.30",
+            "largeName": "Reproduction de plantes",
+            "smallName": "Reproduction de plantes"
+        },
+        {
+            "code": "01.30Z",
+            "largeName": "Reproduction de plantes",
+            "smallName": "Reproduction de plantes"
+        },
+        {
+            "code": "01.4",
+            "largeName": "Production animale",
+            "smallName": "Production animale"
+        },
+        {
+            "code": "01.41",
+            "largeName": "Élevage de vaches laitières",
+            "smallName": "Élevage de vaches laitières"
+        },
+        {
+            "code": "01.41Z",
+            "largeName": "Élevage de vaches laitières",
+            "smallName": "Élevage de vaches laitières"
+        },
+        {
+            "code": "01.42",
+            "largeName": "Élevage d'autres bovins et de buffles",
+            "smallName": "Élevage d'autres bovins et de buffles"
+        },
+        {
+            "code": "01.42Z",
+            "largeName": "Élevage d'autres bovins et de buffles",
+            "smallName": "Élevage d'autres bovins et de buffles"
+        },
+        {
+            "code": "01.43",
+            "largeName": "Élevage de chevaux et d'autres équidés",
+            "smallName": "Élevage de chevaux et d'autres équidés"
+        },
+        {
+            "code": "01.43Z",
+            "largeName": "Élevage de chevaux et d'autres équidés",
+            "smallName": "Élevage de chevaux et d'autres équidés"
+        },
+        {
+            "code": "01.44",
+            "largeName": "Élevage de chameaux et d'autres camélidés",
+            "smallName": "Élevage de chameaux & d'autres camélidés"
+        },
+        {
+            "code": "01.44Z",
+            "largeName": "Élevage de chameaux et d'autres camélidés",
+            "smallName": "Élevage de chameaux & d'autres camélidés"
+        },
+        {
+            "code": "01.45",
+            "largeName": "Élevage d'ovins et de caprins",
+            "smallName": "Élevage d'ovins et de caprins"
+        },
+        {
+            "code": "01.45Z",
+            "largeName": "Élevage d'ovins et de caprins",
+            "smallName": "Élevage d'ovins et de caprins"
+        },
+        {
+            "code": "01.46",
+            "largeName": "Élevage de porcins",
+            "smallName": "Élevage de porcins"
+        },
+        {
+            "code": "01.46Z",
+            "largeName": "Élevage de porcins",
+            "smallName": "Élevage de porcins"
+        },
+        {
+            "code": "01.47",
+            "largeName": "Élevage de volailles",
+            "smallName": "Élevage de volailles"
+        },
+        {
+            "code": "01.47Z",
+            "largeName": "Élevage de volailles",
+            "smallName": "Élevage de volailles"
+        },
+        {
+            "code": "01.49",
+            "largeName": "Élevage d'autres animaux",
+            "smallName": "Élevage d'autres animaux"
+        },
+        {
+            "code": "01.49Z",
+            "largeName": "Élevage d'autres animaux",
+            "smallName": "Élevage d'autres animaux"
+        },
+        {
+            "code": "01.5",
+            "largeName": "Culture et élevage associés",
+            "smallName": "Culture et élevage associés"
+        },
+        {
+            "code": "01.50",
+            "largeName": "Culture et élevage associés",
+            "smallName": "Culture et élevage associés"
+        },
+        {
+            "code": "01.50Z",
+            "largeName": "Culture et élevage associés",
+            "smallName": "Culture et élevage associés"
+        },
+        {
+            "code": "01.6",
+            "largeName": "Activ. soutien à l'agriculture & trt primaire des récoltes",
+            "smallName": "Act. soutien agr. & trait. prim. récolt."
+        },
+        {
+            "code": "01.61",
+            "largeName": "Activités de soutien aux cultures",
+            "smallName": "Activités de soutien aux cultures"
+        },
+        {
+            "code": "01.61Z",
+            "largeName": "Activités de soutien aux cultures",
+            "smallName": "Activités de soutien aux cultures"
+        },
+        {
+            "code": "01.62",
+            "largeName": "Activités de soutien à la production animale",
+            "smallName": "Activités de soutien à la prod. animale"
+        },
+        {
+            "code": "01.62Z",
+            "largeName": "Activités de soutien à la production animale",
+            "smallName": "Activités de soutien à la prod. animale"
+        },
+        {
+            "code": "01.63",
+            "largeName": "Traitement primaire des récoltes",
+            "smallName": "Traitement primaire des récoltes"
+        },
+        {
+            "code": "01.63Z",
+            "largeName": "Traitement primaire des récoltes",
+            "smallName": "Traitement primaire des récoltes"
+        },
+        {
+            "code": "01.64",
+            "largeName": "Traitement des semences",
+            "smallName": "Traitement des semences"
+        },
+        {
+            "code": "01.64Z",
+            "largeName": "Traitement des semences",
+            "smallName": "Traitement des semences"
+        },
+        {
+            "code": "01.7",
+            "largeName": "Chasse, piégeage et services annexes",
+            "smallName": "Chasse, piégeage et services annexes"
+        },
+        {
+            "code": "01.70",
+            "largeName": "Chasse, piégeage et services annexes",
+            "smallName": "Chasse, piégeage et services annexes"
+        },
+        {
+            "code": "01.70Z",
+            "largeName": "Chasse, piégeage et services annexes",
+            "smallName": "Chasse, piégeage et services annexes"
+        },
+        {
+            "code": "02",
+            "largeName": "Sylviculture et exploitation forestière",
+            "smallName": "Sylviculture et exploitation forestière"
+        },
+        {
+            "code": "02.1",
+            "largeName": "Sylviculture et autres activités forestières",
+            "smallName": "Sylviculture & autres act. forestières"
+        },
+        {
+            "code": "02.10",
+            "largeName": "Sylviculture et autres activités forestières",
+            "smallName": "Sylviculture & autres act. forestières"
+        },
+        {
+            "code": "02.10Z",
+            "largeName": "Sylviculture et autres activités forestières",
+            "smallName": "Sylviculture & autres act. forestières"
+        },
+        {
+            "code": "02.2",
+            "largeName": "Exploitation forestière",
+            "smallName": "Exploitation forestière"
+        },
+        {
+            "code": "02.20",
+            "largeName": "Exploitation forestière",
+            "smallName": "Exploitation forestière"
+        },
+        {
+            "code": "02.20Z",
+            "largeName": "Exploitation forestière",
+            "smallName": "Exploitation forestière"
+        },
+        {
+            "code": "02.3",
+            "largeName": "Récolte produits forestiers non ligneux poussant à l'état sauvage",
+            "smallName": "Récolte prodts forestiers non ligneux"
+        },
+        {
+            "code": "02.30",
+            "largeName": "Récolte prod. forestiers non ligneux poussant à l'état sauvage",
+            "smallName": "Récolte prodts forestiers non ligneux"
+        },
+        {
+            "code": "02.30Z",
+            "largeName": "Récolte prod. forestiers non ligneux poussant à l'état sauvage",
+            "smallName": "Récolte prodts forestiers non ligneux"
+        },
+        {
+            "code": "02.4",
+            "largeName": "Services de soutien à l'exploitation forestière",
+            "smallName": "Services de soutien à l'expl. forestière"
+        },
+        {
+            "code": "02.40",
+            "largeName": "Services de soutien à l'exploitation forestière",
+            "smallName": "Services de soutien à l'expl. forestière"
+        },
+        {
+            "code": "02.40Z",
+            "largeName": "Services de soutien à l'exploitation forestière",
+            "smallName": "Services de soutien à l'expl. forestière"
+        },
+        {
+            "code": "03",
+            "largeName": "Pêche et aquaculture",
+            "smallName": "Pêche et aquaculture"
+        },
+        {
+            "code": "03.1",
+            "largeName": "Pêche",
+            "smallName": "Pêche"
+        },
+        {
+            "code": "03.11",
+            "largeName": "Pêche en mer",
+            "smallName": "Pêche en mer"
+        },
+        {
+            "code": "03.11Z",
+            "largeName": "Pêche en mer",
+            "smallName": "Pêche en mer"
+        },
+        {
+            "code": "03.12",
+            "largeName": "Pêche en eau douce",
+            "smallName": "Pêche en eau douce"
+        },
+        {
+            "code": "03.12Z",
+            "largeName": "Pêche en eau douce",
+            "smallName": "Pêche en eau douce"
+        },
+        {
+            "code": "03.2",
+            "largeName": "Aquaculture",
+            "smallName": "Aquaculture"
+        },
+        {
+            "code": "03.21",
+            "largeName": "Aquaculture en mer",
+            "smallName": "Aquaculture en mer"
+        },
+        {
+            "code": "03.21Z",
+            "largeName": "Aquaculture en mer",
+            "smallName": "Aquaculture en mer"
+        },
+        {
+            "code": "03.22",
+            "largeName": "Aquaculture en eau douce",
+            "smallName": "Aquaculture en eau douce"
+        },
+        {
+            "code": "03.22Z",
+            "largeName": "Aquaculture en eau douce",
+            "smallName": "Aquaculture en eau douce"
+        }
+    ]
+    
+}
