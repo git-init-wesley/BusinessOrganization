@@ -1,0 +1,6 @@
+framework module Pods_BusinessOrganization {
+  umbrella header "Pods-BusinessOrganization-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,41 @@
+/* 
+  Lang.strings
+  BusinessOrganization
+
+  Created by Wesley Levasseur on 31/03/2021.
+  
+*/
+
+//MARK: - Generals
+"loading" = "Loading";
+"see" = "See";
+"error" = "Error";
+"clients" = "Clients";
+"providers" = "Providers";
+"articles" = "Articles";
+"quotes" = "Quotes";
+"invoices" = "Invoices";
+"purchase_orders" = "Purchase Orders";
+
+//MARK: - Sign
+"connection" = "Connection";
+"connection_desc" = "Connect to enter the game.";
+"registration" = "Registration";
+"registration_desc" = "Register to enter the game.";
+"sign_in" = "Sign In";
+"sign_up" = "Sign Up";
+"email_address" = "Email address";
+"username" = "Username";
+"username_format_info" = "Must be numbers dialed.\nMust be lowercase or uppercase.\nMust not contain any special character except \".\" and \"_\".\nAt least 3 characters, but no more than 16.";
+"password" = "Password";
+"password_confirm" = "Password Confirmation";
+"password_format_info" = "At least one number.\nAt least one lowercase character.\nAt least one uppercase character.\nAt least one special character.\nAt least 8 characters, but no more than 32.";
+"password_malformated" = "";
+"forgot_password_?" = "Forgot your password ?";
+"agree_terms_of_use" = "You agree to our terms of use.";
+"have_account_yet" = "Already have an account ?";
+"not_account_yet" = "Don't have an account yet ?";
+
+//MARK: - PopUp
+"popup_desync" = "You will be disconnected without backup in {sec} second.";
+"popup_desync_plurial" = "You will be disconnected without backup in {sec} seconds.";

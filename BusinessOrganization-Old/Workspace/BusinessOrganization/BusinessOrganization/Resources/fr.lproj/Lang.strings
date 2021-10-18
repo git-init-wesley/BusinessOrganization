@@ -1,0 +1,42 @@
+/* 
+  Lang.strings
+  BusinessOrganization
+
+  Created by Wesley Levasseur on 31/03/2021.
+  
+*/
+
+//MARK: - Generals
+"loading" = "Chargement";
+"see" = "Voir";
+"error" = "Erreur";
+"clients" = "Clients";
+"providers" = "Fournisseurs";
+"articles" = "Articles";
+"quotes" = "Devis";
+"invoices" = "Factures";
+"purchase_orders" = "Bons de commande";
+
+//MARK: - Auth
+"connection" = "Connexion";
+"connection_desc" = "Connectez-vous pour entrer dans le jeu.";
+"registration" = "Inscription";
+"registration_desc" = "Inscrivez-vous pour entrer dans le jeu.";
+"sign_in" = "Se connecter";
+"sign_up" = "S'inscrire";
+"email_address" = "Adresse mail";
+"username" = "Nom d'utilisateur";
+"username_format_info" = "Doit-être composer de chiffre.\nDoit-être composer de minuscule ou majuscule.\nNe dois pas contenir de caractère spécial sauf « . » et « _ ».\nAu moins 3 caractères, mais pas plus de 16.";
+"password" = "Mot de passe";
+"password_confirm" = "Confirmation du Mot de passe";
+"password_format_info" = "Au moins un chiffre.\nAu moins un caractère minuscule.\nAu moins un caractère majuscule.\nAu moins un caractère spécial.\nAu moins 8 caractères, mais pas plus de 32.";
+"password_malformated" = "\nLe mot de passe est mal formaté.\n\nAu moins un chiffre.\nAu moins un caractère minuscule.\nAu moins un caractère majuscule.\nAu moins un caractère spécial.\nAu moins 8 caractères, mais pas plus de 32.";
+"forgot_password_?" = "Mot de passe oublié?";
+"agree_terms_of_use" = "Vous acceptez nos conditions d'utilisation.";
+"have_account_yet" = "Vous avez déjà un compte ?";
+"not_account_yet" = "Vous n'avez pas encore de compte ?";
+
+//MARK: - PopUp
+"popup_desync" = "Vous allez etres deconnecte sans sauvegarde dans {sec} seconde.";
+"popup_desync_plurial" = "Vous allez etres deconnecte sans sauvegarde dans {sec} secondes.";
+
